@@ -19,4 +19,4 @@ Python (Pandas, Matplotlib, Seaborn), SQL, Power BI / Tableau, Excel
 
 ## Author
 **Puneet Goyal**  
-GitHub: [puneetgoyal31](https://github.com/puneetgoyal31)
+GitHub: [puneet01-svg](https://github.com/puneet01-svg)
